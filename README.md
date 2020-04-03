@@ -16,7 +16,6 @@
   - [x] Create React-app
   - [x] Install dependencies
   - [x] Use hooks
-  - [x] Proxy setting
   - [x] Fetch data
   - [x] Shows data to the browser
   - [x] For styling: [style-components](https://styled-components.com/)
