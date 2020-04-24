@@ -38,7 +38,6 @@ Owned by [Alak Dam](http://www.alakdam.com/)
 | Tech              | Version |
 | ----------------- | ------- |
 | React             | 16.13.0 |
-| Express           | 4.17.1  |
 | axios             | 0.19.2  |
 | moment            | 2.24.0  |
 | styled-components | 5.0.1   |
